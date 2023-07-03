@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **TypeScript, React Native and UX/UI**
 
-- 🤝 I worked on a team for [PF-Teesa](https://pf-teesa-front.vercel.app/)
+- 🤝 I worked in a team for [PF-Teesa](https://pf-teesa-front.vercel.app/)
 
 - 📫 How to reach me **yoseli21603@gmail.com**
 
